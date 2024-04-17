@@ -4,7 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/cosmic_dipole
 date: 2024-03-30
-location: "Sun Yat-sen University"
+venue: "Sun Yat-sen University"
+location: "Guangzhou, China"
 ---
 
 This is the presentation at group meetings, which mainly focuses on the derivation of the observed number count perturbation.
