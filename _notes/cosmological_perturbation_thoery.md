@@ -1,5 +1,5 @@
 ---
-title: "Cosmological Perturbation Thoery"
+title: "Note of cosmological perturbation thoery"
 collection: notes
 type: "Note"
 permalink: /notes/cosmological_perturbation_thoery
