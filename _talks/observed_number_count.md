@@ -1,5 +1,5 @@
 ---
-title: "Observed number count perturbation"
+title: "Observed Number Count Perturbations"
 collection: talks
 type: "Talk"
 permalink: /talks/cosmic_dipole
