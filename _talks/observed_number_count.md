@@ -2,7 +2,7 @@
 title: "Observed Number Count Perturbations"
 collection: talks
 type: "Talk"
-permalink: /talks/cosmic_dipole
+permalink: /talks/observed_number_count
 date: 2024-03-30
 venue: "Sun Yat-sen University"
 location: "Guangzhou, China"
