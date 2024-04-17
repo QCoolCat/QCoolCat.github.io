@@ -6,13 +6,6 @@ permalink: /notes/cosmological_perturbation_thoery
 date: 2024.04.17
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+This is the note I wrote when I was studying cosmological perturbation thoery.
 
-Heading 1
-=====
-
-Heading 2
-======
-
-Heading 3
-======
+The note is mainly based on the perturbation part of Daniel Baumann’s textbook Cosmology and Viatcheslav Mukhanov’s textbook Physical Foundation of Cosmology. [Download the note here!](https://qcoolcat.github.io/files/paper1.pdf)
