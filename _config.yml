@@ -274,7 +274,7 @@ defaults:
    # _notes
   - scope:
       path: ""
-      type: teaching
+      type: notes
     values:
       layout: single
       author_profile: true
