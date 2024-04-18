@@ -8,4 +8,9 @@ date: 2024.01.01
 
 These are some of my course notes from Prof. Yiwen Pan's course: Group Theory in Physics.
 
-[Download the note here!](https://qcoolcat.github.io/files/notes/Perturbation.pdf)
+[Group Structures](https://qcoolcat.github.io/files/notes/group_theory/Group_Structures.pdf)
+
+[Group Representations](https://qcoolcat.github.io/files/notes/group_theory/Group_Representations.pdf)
+
+[Cheet Sheet](https://qcoolcat.github.io/files/notes/group_theory/cheatsheet.pdf)
+
