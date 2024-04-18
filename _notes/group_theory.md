@@ -12,5 +12,9 @@ These are some of my course notes from Prof. Yiwen Pan's course: Group Theory in
 
 [Group Representations](https://qcoolcat.github.io/files/notes/group_theory/Group_Representations.pdf)
 
+[Lie Groups](https://qcoolcat.github.io/files/notes/group_theory/Lie_Groups.pdf)
+
+[Lie Algebras](https://qcoolcat.github.io/files/notes/group_theory/Lie_Algebra.pdf)
+
 [Cheet Sheet](https://qcoolcat.github.io/files/notes/group_theory/cheatsheet.pdf)
 
