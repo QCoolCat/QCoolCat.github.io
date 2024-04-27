@@ -12,4 +12,4 @@ This is the presentation at group meetings, which mainly focuses on the derivati
 
 [Download the slice here!](https://qcoolcat.github.io/files/talks/number_counts/observed_number_count_derivation.pdf)
 
-The Mathematica code is for caculating the multipoles in the dust dominated universe. [Download the code here!](https://qcoolcat.github.io/files/talks/number_counts/MD_Dipole.nb)
+The Mathematica code is for caculating the multipoles in the dust dominated universe. [Download the code here!](https://qcoolcat.github.io/files/talks/number_counts/MD_Multipoles.nb)
